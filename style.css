@@ -47,6 +47,7 @@ padding: 24px 0;}
 
 .aluno-um{
     width: 30%;
+ height: 150px;
 }
 
 .estudante-icone
@@ -67,3 +68,11 @@ padding: 24px 0;}
     grid-template-columns: 25% 25% 25% 25%;
 }
 
+footer{
+background-color: red;
+color: black;
+font-size: medium;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+padding: 20px;
+
+}
